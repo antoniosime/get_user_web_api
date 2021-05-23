@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWBAtPdLbvcJdfDX2AKBQ9j2VujZhQiXJEylIPcvQ2DaeTsibRI6oTd/cAGnFyoIc7zI+xPKd2V/e63AvkH2mg==",
+  "success": true,
+  "projectFilePath": "F:\\Antonio\\Proekti\\User\\User\\User.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.6\\microsoft.netcore.app.runtime.win-x86.5.0.6.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.6\\microsoft.netcore.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.6\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.6.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.6\\microsoft.aspnetcore.app.runtime.win-x86.5.0.6.nupkg.sha512",
+    "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.6\\microsoft.aspnetcore.app.runtime.win-x64.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
